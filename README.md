@@ -1,2 +1,2 @@
 # travel_China
-使用seleumn
+使用selenium对携程网站进行爬取，得到相应数据后用pyecharts库对其进行数据可视化，最后使用html对各个网页之间进行链接，给出了中国地图和浙江省地图的demo
